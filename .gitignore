@@ -1,0 +1,9 @@
+# dane uzytkownika - nie wrzucac do repozytorium
+dane.json
+dane.json.tmp
+dane.json.uszkodzony-*
+*.csv
+
+# Python
+__pycache__/
+*.pyc
